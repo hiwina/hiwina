@@ -5,8 +5,7 @@
 
 <h3 align="left"> About me </h3>
 
-I'm Hiwot Bayissa. I am a student at Microverse, an online school where i code more than 8 hours a day with other developers from all around the globe.
-
+Hi there! I'm a passionate full-stack developer and cloud enthusiast with a strong interest in building scalable web applications and smart cloud-based solutions. I enjoy working across the stack—from crafting intuitive user interfaces to implementing powerful backend logic and integrating with cloud services like Azure.
 - 🌱 I’m currently learning **full stack software development**
 
 - 📫 You can reach me at **hiwina@gmail.com**
