@@ -8,7 +8,6 @@
 I'm a passionate full-stack developer and cloud enthusiast with a strong interest in building scalable web applications and smart cloud-based solutions. I enjoy working across the stack—from crafting intuitive user interfaces to implementing powerful backend logic and integrating with cloud services like Azure.
 
 💡 I'm especially interested in:
-
 Cloud computing with Azure
 
 Full-stack development with React, Node.js
