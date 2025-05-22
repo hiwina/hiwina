@@ -5,11 +5,31 @@
 
 <h3 align="left"> About me </h3>
 
-Hi there! I'm a passionate full-stack developer and cloud enthusiast with a strong interest in building scalable web applications and smart cloud-based solutions. I enjoy working across the stack—from crafting intuitive user interfaces to implementing powerful backend logic and integrating with cloud services like Azure.
-- 🌱 I’m currently learning **full stack software development**
+I'm a passionate full-stack developer and cloud enthusiast with a strong interest in building scalable web applications and smart cloud-based solutions. I enjoy working across the stack—from crafting intuitive user interfaces to implementing powerful backend logic and integrating with cloud services like Azure.
+💡 I'm especially interested in:
 
-- 📫 You can reach me at **hiwina@gmail.com**
+Cloud computing with Azure
+
+Full-stack development with React, Node.js
+
+API development and integration
+
+🌍 I'm always eager to learn new technologies.
+🔧 Tools & Technologies I use:
+
+Frontend: React, Tailwind CSS
+
+Backend: Node.js
+
+Cloud: Azure (App Services, Functions, Storage, Table Storage)
+
+DevOps: GitHub, VS Code, CI/CD
+
+📫 Let's connect!
+I'm open to collaboration, feedback, and new opportunities. Feel free to reach out!
+ **hiwina@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hiwot-bayissa-1a015491/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athaliah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hiwot-bayissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athaliah" height="30" width="40" /></a>
