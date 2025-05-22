@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I am Hiwot Bayissa</h1>
 <h3 align="center">A Full Stack developer</h3>
-<img align="right"  width="300" height="300" src="https://i.pinimg.com/236x/b0/b8/4c/b0b84cf794860e3a2253ea4ffcb5a6f1.jpg" alt="">
 
 
 <h3 align="left"> About me </h3>
